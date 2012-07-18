@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//wiki20/controllers/error.py=utf-8
+encoding//wiki20/controllers/root.py=utf-8
+encoding//wiki20/controllers/secure.py=utf-8
+encoding//wiki20/controllers/template.py=utf-8
+encoding//wiki20/model/__init__.py=utf-8
+encoding//wiki20/model/auth.py=utf-8
+encoding//wiki20/tests/functional/test_authentication.py=utf-8
+encoding//wiki20/tests/models/test_auth.py=utf-8
+encoding//wiki20/websetup/bootstrap.py=utf-8
+encoding/setup.py=utf-8
