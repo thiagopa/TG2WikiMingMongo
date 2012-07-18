@@ -1,0 +1,11 @@
+TurboGears2 >= 2.1.5
+Genshi
+tgming
+repoze.what >= 1.0.8
+repoze.who-friendlyform >= 1.0.4
+repoze.what-pylons >= 1.0
+repoze.who==1.0.19
+tgext.admin >= 0.3.11
+sprox >= 0.7dev
+tw.forms
+docutils
